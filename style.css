@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(67, 66, 66);
+}
+div{
+    background-color:rgb(73, 170, 195);
+    width: 35%;
+    height: 460px;
+    margin-top: 60px;
+    padding: 20px;
+    box-shadow: rgb(124, 133, 133) 5px 5px 5px 5px;
+}
+div:hover{
+    background-color:rgb(80, 191, 219);
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#gender1{
+color: white;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#gender{
+    width: 50%;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(69, 199, 231);
+}
+#btn{
+    width: 20%;
+    height: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: rgb(69, 199, 231);
+    cursor: pointer;
+}
+
+#name{
+    width: 50%;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(32, 34, 35);
+    
+}
+#password{
+    width: 50%;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(32, 34, 35);
+   
+}
+#email{
+    width: 50%;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(32, 34, 35);
+    
+}  
+
+
+
+  
+  
